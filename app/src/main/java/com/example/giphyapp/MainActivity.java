@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
     private Button searchButton;
     private RecyclerView recyclerView;
     private GifAdapter adapter;
-    private static final String API_KEY = "0wpy0JbePesJmvexpguajOgIGP68k47s";
+    private static final String API_KEY = "9yowpZd4xiqbhs8Zmv7lejpGuYGvmD5U";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
