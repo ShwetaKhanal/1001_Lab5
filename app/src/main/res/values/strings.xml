@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GiphyApp</string>
+    <string name="download_button_desc">Download this GIF</string>
 </resources>
